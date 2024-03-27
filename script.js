@@ -5,5 +5,5 @@ document.getElementById('link1').addEventListener('click', function(event) {
 
 document.getElementById('link2').addEventListener('click', function(event) {
   event.preventDefault();
-  window.location.href = 'https://example.com/link2';
+  window.location.href = 'https://stormblade2250.github.io/RangersSuckDandD/';
 });
