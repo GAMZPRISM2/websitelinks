@@ -1,6 +1,6 @@
 document.getElementById('link1').addEventListener('click', function(event) {
   event.preventDefault();
-  window.location.href = 'https://example.com/link1';
+  window.location.href = 'https://gamzprism2.github.io/RoryBlog/';
 });
 
 document.getElementById('link2').addEventListener('click', function(event) {
